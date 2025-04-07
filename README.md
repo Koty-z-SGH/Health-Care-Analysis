@@ -3,6 +3,6 @@
 Building real data skills useful in work environment espcially SQL, Python, R, PowerBi. *<br>
 
 <h1><b>Team Roles</b> <br></h1>
-<i>Data Engineer - Architect</i> Aleksander <br>
-**Data Analyst** Gustaw <br>
-**Data Engineer - ETL** Maciej <br>
+<br><i>Data Engineer - Architect</i> Aleksander </br>
+<br><i>Data Analyst</i> Gustaw </br>
+<br><i>Data Engineer - ETL</i> Maciej </br>
