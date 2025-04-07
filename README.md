@@ -6,3 +6,20 @@ Building real data skills useful in work environment espcially SQL, Python, R, P
 <br><i>Data Engineer - Architect</i> Aleksander </br>
 <br><i>Data Analyst</i> - Gustaw </br>
 <br><i>Data Engineer - ETL</i> Maciej </br>
+.gradient-background {
+  background: linear-gradient(300deg,deepskyblue,darkviolet,blue);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
